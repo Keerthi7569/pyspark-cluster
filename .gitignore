@@ -1,0 +1,6 @@
+shared-output/
+__pycache__/
+.venv/
+venv/
+.env
+spark-log.txt
